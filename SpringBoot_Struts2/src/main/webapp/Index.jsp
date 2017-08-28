@@ -18,6 +18,9 @@
 		<div class="btn btn-success">
 			<s:property value="#request.tstMsg" />
 		</div>
+		<div class="btn btn-warning">
+			<s:text name="global.jjValue" />
+		</div>
 	</div>
 </body>
 </html>
